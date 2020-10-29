@@ -7,5 +7,8 @@ FE using HTML,CSS,jQuery,JavaScript.
 ## ABOUT APP
 Actually,this is used for calc
 
-CHECKOUT:-
+## CHECKOUT:-
 + [JavaScript.Calculator](https://github.com/nkmishraraptor/JS-CALC/)
+
+### GIT-:
+https://github.com/nkmishraraptor/JS-CALC.git
